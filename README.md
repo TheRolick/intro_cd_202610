@@ -13,4 +13,4 @@ Imagen simple
 ![Texto alternativo](carrito01.jpg)
 
 Imagen desde URL externa
-![Logo]([https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg](https://administracion.uniandes.edu.co/wp-content/uploads/2021/11/rodrigo-taborda-1.jpg))
+![Logo]([https://administracion.uniandes.edu.co/wp-content/uploads/2021/11/rodrigo-taborda-1.jpg])
