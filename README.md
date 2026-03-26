@@ -13,4 +13,4 @@ Imagen simple
 ![Texto alternativo](carrito01.jpg)
 
 Imagen desde URL externa
-![Logo]([https://administracion.uniandes.edu.co/wp-content/uploads/2021/11/rodrigo-taborda-1.jpg])
+![Logo]([https://media.licdn.com/dms/image/v2/D4E35AQEcTmKPaslGFw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1685628586544?e=1775145600&v=beta&t=ubjdyjd9KOUjzkq69cAg4PMLKDY_bGGqdUosRB9qNf0])
